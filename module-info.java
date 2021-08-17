@@ -1,0 +1,2 @@
+module naggaro_practice {
+}
